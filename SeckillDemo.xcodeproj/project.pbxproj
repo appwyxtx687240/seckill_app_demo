@@ -300,7 +300,6 @@
 				C86D41731D5C5D6A009F0C15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
